@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "715441100211",
+    "project_id": "kasipayz",
+    "storage_bucket": "kasipayz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715441100211:android:b44624fa0fef4e2469a7c6",
+        "android_client_info": {
+          "package_name": "com.example.kasipayz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKupogogzW93NCsHH8bbMCuKZ7vTDe3PU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
